@@ -19,6 +19,9 @@ public class MiClase
     public float getAtributo3(){
         return atributo3;
     }
+    public void setAtributo1(String nuevoAtributo1){
+        atributo1 = nuevoAtributo1;
+    }
 
     //Métodos de la clase
     public void metodo1()
