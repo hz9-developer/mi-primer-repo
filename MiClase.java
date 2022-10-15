@@ -9,18 +9,25 @@ public class MiClase
     //Constructor con el mismo nombre de la clase
     public MiClase(){}
 
-
     public String getAtributo1(){
         return atributo1;
     }
+    public void setAtributo1(String nuevoAtributo1){
+        atributo1 = nuevoAtributo1;
+    }
+
     public int getAtributo2(){
         return atributo2;
     }
+    public void setAtributo2(int nuevoAtributo2){
+        atributo2 = nuevoAtributo2;
+    }
+
     public float getAtributo3(){
         return atributo3;
     }
-    public void setAtributo1(String nuevoAtributo1){
-        atributo1 = nuevoAtributo1;
+    public void setAtributo1(float nuevoAtributo3){
+        atributo3 = nuevoAtributo3;
     }
 
     //Métodos de la clase
