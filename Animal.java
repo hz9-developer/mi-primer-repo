@@ -4,6 +4,7 @@ public class Animal
     private String nombre;
     private int edad;
 
+
     public Animal(String nuevoNombre)
     {
         nombre = nuevoNombre; //Se le da un nombre al animal
@@ -25,5 +26,11 @@ public class Animal
     public String getNombre()
     {
         return nombre;
+    }
+    
+    //Método para obtener la raza del animal
+    public String getRaza()
+    {
+        return raza;
     }
 }

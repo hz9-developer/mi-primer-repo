@@ -1,4 +1,3 @@
-import Animal; //Importamos la clase Animal para poder usarla
 
 public class Ejemplo
 {

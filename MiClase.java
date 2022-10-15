@@ -9,6 +9,17 @@ public class MiClase
     //Constructor con el mismo nombre de la clase
     public MiClase(){}
 
+
+    public String getAtributo1(){
+        return atributo1;
+    }
+    public int getAtributo2(){
+        return atributo2;
+    }
+    public float getAtributo3(){
+        return atributo3;
+    }
+
     //Métodos de la clase
     public void metodo1()
     {
