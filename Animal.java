@@ -7,7 +7,7 @@ public class Animal
 
     public Animal(String nuevoNombre)
     {
-        nombre = nuevoNombre; //Se le da un nombre al animal
+        nombre = nuevoNombre;
     }
 
     //Método para obtener la edad del animal

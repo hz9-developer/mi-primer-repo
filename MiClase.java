@@ -7,7 +7,9 @@ public class MiClase
     private float atributo3;
 
     //Constructor con el mismo nombre de la clase
-    public MiClase(){}
+    public MiClase(){
+        
+    }
 
     public String getAtributo1(){
         return atributo1;
